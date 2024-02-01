@@ -1,0 +1,10 @@
+var money=1000;
+var applePrice = 350;
+var orangePrice = 350;
+var orangeKg = 1;
+var orangeKg = 1;
+console.log(money);
+var totalCost = applePrice + orangePrice ;
+console.log(totalCost);
+money = money - totalCost;
+console.log(money);
